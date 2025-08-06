@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database
+# We will temporarily remove this line later to upload our seeded DB
+*.db
