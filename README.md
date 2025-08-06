@@ -17,7 +17,7 @@ The system uses Google's Gemini Pro to extract key metrics, a Streamlit frontend
 * **🔒 Secure Multi-Tenant System:** Features Role-Based Access Control (RBAC) to ensure CEOs and management only see the data they are authorized to view.
 * **📊 Interactive Dashboards:** Visualizes financial trends for revenue, assets, and liabilities using Plotly.
 * **💬 Conversational Q&A:** Allows users to ask complex questions in natural language and receive instant, data-driven answers.
-* **☁️ Publicly Deployed:** Designed for and deployed on Streamlit Community Cloud.
+* **☁️ Publicly Deployed:** Designed for and deployed on Streamlit Community Cloud.You can click [here](https://balancesheetfinancial.streamlit.app/) to check the deployed application.
 
 ---
 ## Tech Stack
@@ -44,7 +44,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/Jaguruth-N/Financial-Analyst-Chat-Bot.git](https://github.com/Jaguruth-N/Financial-Analyst-Chat-Bot.git)
+    git clone https://github.com/Jaguruth-N/Financial-Analyst-Chat-Bot.git
     ```
 
 2.  **Navigate to the Project Directory**
