@@ -1,5 +1,5 @@
 import fitz  # PyMuPDF
-import google.generativeai as genai # <-- CHANGE: New library import
+import google.generativeai as genai 
 import json
 import streamlit as st
 import pandas as pd
