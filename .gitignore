@@ -8,4 +8,4 @@ venv/
 
 # Database
 # We will temporarily remove this line later to upload our seeded DB
-*.db
+#*.db
